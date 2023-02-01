@@ -1,5 +1,5 @@
 ![MasterHead](![github-header-image](https://user-images.githubusercontent.com/118432489/215983863-c5eedea4-3a40-41c4-9d5b-3429fa6fc9be.png))
-![Header](./(https://user-images.githubusercontent.com/118432489/215983863-c5eedea4-3a40-41c4-9d5b-3429fa6fc9be.png)
+![Header](./[https://user-images.githubusercontent.com/118432489/215983863-c5eedea4-3a40-41c4-9d5b-3429fa6fc9be.png]
 <h1 align="center">Hi 👋, I'm Manish Singh Koranga</h1>
 <h3 align="center">A passionate Full Stack Web Developer and programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
